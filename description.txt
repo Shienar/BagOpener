@@ -1,0 +1,5 @@
+The Wall of Flesh will now drop a "Bag Opener" item. All openable items (e.g. bags, crates, presents) will be automatically opened while the Bag Opener is in your inventory.
+
+Both modded and vanilla containers are affected by this mod.
+
+Please let me know if you discover any bugs.

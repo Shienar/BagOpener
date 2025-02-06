@@ -1,0 +1,23 @@
+Items: {
+	BagOpener: {
+		DisplayName: Bag Opener
+		Tooltip: ""
+	}
+
+	BagOpenerItem: {
+		DisplayName: Bag Opener Item
+		Tooltip: ""
+	}
+}
+
+Configs: {
+	BagOpenerConfig: {
+		DisplayName: Bag Opener Config
+		Headers.ToggleBagOpener: Toggle Bag Opener Header
+
+		toggleBagOpener: {
+			Label: toggle Bag Opener
+			Tooltip: ""
+		}
+	}
+}
